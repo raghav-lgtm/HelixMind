@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google/gemini-cli": "^0.39.1"
+  },
+  "name": "helixmind",
+  "version": "1.0.0",
+  "description": "![alt text](thumbnail.png)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
